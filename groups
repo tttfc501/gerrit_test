@@ -2,5 +2,6 @@
 #
 2c4d9d473ef1a2faf1527210cc96a4f5972fba8d	Administrators
 771f4643223cd31c1f4050acd4ffa60b4388f259	gerrit_test_manager
+d812c988b02690d466c03071a30112888dbb2ae0	gerrit_test_owner
 e5a8e45c3857105a2ca1b05d5be785c947f23e5b	gerrit_test_developer
 global:Registered-Users                 	Registered Users
