@@ -16,6 +16,23 @@
       "message": "just a testing",
       "revId": "bdb9bae527bfadc531888cdbd2d1348657d5888f",
       "serverId": "8a8eb815-47b7-4b04-a678-15b44340810b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49d3666c_f6ae27a1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2021-07-08T12:42:16Z",
+      "side": 1,
+      "message": "next time pls add more change to commit",
+      "revId": "bdb9bae527bfadc531888cdbd2d1348657d5888f",
+      "serverId": "8a8eb815-47b7-4b04-a678-15b44340810b"
     }
   ]
 }
